@@ -1,5 +1,5 @@
 # CONTENTS
-### [Findings](/IshanOze/Swiggy-Case-Study/blob/main/USERS.md#in-depth-analysis)
+### [Findings](/main/USERS.md#in-depth-analysis)
 
 
 # QUERIES AND SOLUTIONS
