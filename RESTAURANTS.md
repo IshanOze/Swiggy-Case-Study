@@ -1,9 +1,9 @@
-### CONTENTS
+# CONTENTS
 - [Queries and Solutions](/RESTAURANTS.md#queries-and-solutions)
 - [Findings](/RESTAURANTS.md#findings)
 ---
 
-### QUERIES AND SOLUTIONS
+# QUERIES AND SOLUTIONS
 
 #### 1. Number of Orders in each restaurant
 ~~~~sql
