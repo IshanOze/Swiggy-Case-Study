@@ -1,6 +1,6 @@
 # Contents
-- [Queries and Solutions]
-- [Findings]
+- [Queries and Solutions](/DELIVERYMEN.md#queries-and-solutions)
+- [Findings](/DELIVERYMEN.md#findings)
 
 ---
 
