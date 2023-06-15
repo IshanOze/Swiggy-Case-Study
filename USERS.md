@@ -1,3 +1,7 @@
+# CONTENTS
+### [Findings](/IshanOze/Swiggy-Case-Study/blob/main/USERS.md#in-depth-analysis)
+
+
 # QUERIES AND SOLUTIONS
 
 #### 1. List Customers and their number of Orders
