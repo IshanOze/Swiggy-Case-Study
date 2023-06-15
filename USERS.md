@@ -1,4 +1,4 @@
-### QUERIES AND SOLUTIONS
+# QUERIES AND SOLUTIONS
 
 #### 1. List Customers and their number of Orders
 ~~~~sql
@@ -284,5 +284,43 @@ Answer
 | Nitish   | 333.00        |
 | Vartika  | 264.00        |
 
-### IN-DEPTH ANALYSIS
+# IN-DEPTH ANALYSIS
 
+## Ankit 
+- is **completely Veg**
+- is **pretty satisfied** with the delivery experience
+- loves **Veg Manchurain and Shezwan Noodles** but prefers **South Indian cuisine**
+- he has ordered from **Dosa Plaza and China Town** and has given **good ratings** to both of the restaurants
+- spends **moderately**
+
+## Khushboo
+- **prefers Veg** but also buys **Non Veg often**
+- is **easily displeased** by late delivery and has **voted the lowest** for delivery rating
+- **spends considerably more** than other customers
+- **Choco Lava Cake** is her favourite dish while **she likes to try different cuisine**
+- she has ordered from **various restaurants** indicating that she **likes exploring different dishes** but has given **excellent ratings** to **Box8 and KFC** 
+- her **orders are increasing by the month**, indicating that she's **relatively new on the app and loves exploring different dishes and restaurants**
+
+## Neha
+- prefers **Non Veg more often** than **Veg**
+- shows **generous delivery rating regardless** of the delivery time
+- **spends the most** 
+- **Choco Lava Cake** is her favourite dish and **American** is her favourite cuisine.
+- although she is the **biggest spender**, she has given the **lowest** ratings to **KFC and Dominos**
+- there's a prospect of her ordering **more in the coming months**, but she is a **picky eater and big spender**
+
+## Nitish
+- prefers **Veg more frequently** than **Non-Veg**
+- **gives moderate** ratings to the delivery personnel
+- **spends adequately**
+- **Choco Lava Cake** is his favourite dish and **enjoys North Indian cuisine**
+-  loves to eat dishes from **Box8** but also likes ordering from **Dominos and KFC**
+-  has placed **consistent orders** in the previous months
+
+## Vartika
+- **prefers Non-Veg** than **Veg**
+- **gives moderate** ratings to the delivery personnel
+- **spends the least**
+- **Chicken Wings** is her favourite dish and **likes American cuisine**
+- has given **very low ratings** to **all the restaurants** that she has ordered from
+- her momentum of ordering is **declining over the months** 
