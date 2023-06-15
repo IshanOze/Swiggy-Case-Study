@@ -1,5 +1,5 @@
 # CONTENTS
-### [Findings](/main/USERS.md#in-depth-analysis)
+### [Findings](/USERS.md#in-depth-analysis)
 
 
 # QUERIES AND SOLUTIONS
