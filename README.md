@@ -4,3 +4,5 @@ The case study aims to tackle some of the common business related questions face
 
 ## Contents
 - ### [Users Analysis](/USERS.md#contents)
+- ### [Restaurants Analysis](/RESTAURANTS.md#contents)
+- ### [Deliverymen Analysis](/DELIVERYMEN.md#contents)
