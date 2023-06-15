@@ -1,6 +1,6 @@
 # CONTENTS
-### [Queries and Solutions](/USERS.md#queries-and-solutions-1)
-### [Findings](/USERS.md#in-depth-analysis)
+- [Queries and Solutions](/USERS.md#queries-and-solutions-1)
+- [Findings](/USERS.md#in-depth-analysis)
 
 
 ---
