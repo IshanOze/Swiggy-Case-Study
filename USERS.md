@@ -1,6 +1,8 @@
 # CONTENTS
 ### [Findings](/USERS.md#in-depth-analysis)
+### [Queries and Solutions]
 
+---
 
 # QUERIES AND SOLUTIONS
 
@@ -288,8 +290,8 @@ Answer
 | Nitish   | 333.00        |
 | Vartika  | 264.00        |
 
-# IN-DEPTH ANALYSIS
-
+# Findings
+---
 ## Ankit 
 - is **completely Veg**
 - is **pretty satisfied** with the delivery experience
