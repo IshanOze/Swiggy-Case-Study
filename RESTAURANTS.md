@@ -1,6 +1,6 @@
 ### CONTENTS
-[Queries and Solutions]
-[Findings]
+[Queries and Solutions](/RESTAURANTS.md#queries-and-solutions)
+[Findings](RESTAURANTS.md#findings)
 ---
 
 ### QUERIES AND SOLUTIONS
